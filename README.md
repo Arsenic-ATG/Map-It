@@ -10,9 +10,13 @@ This is what your program does:
 ## Language used
 - 🐍 python
 
+### Setup required 🛠
+- most of the stuff will be plain python scripts which will only require you to have **python installed on your device** and an **IDE/text editor** to see and make changes to the scripts on your system.
+- if you don't have python on your machine then you can download it from [here](https://www.python.org/downloads/)
+- 🌐 Install ```pyperclip``` (external module of python) using ```pip install pyperclip```
+
 ## 🏃‍♀️Get it running🏃‍♂️
 - 👯‍♂️clone/download using ```git@github.com:Arsenic-ATG/Map-It.git```
-- 🌐 Install ```pyperclip``` (external module of python) using ```pip install pyperclip```
 - run the python script
 - to run the script with command line arguments pass the argument at the time or running the program like this :-
   ```$python3 MapIt.py <location to be searched>```
@@ -23,8 +27,3 @@ This is what your program does:
 
 ## Note:
 the script will use the command line arguments instead of the clipboard. If there are no command line arguments, then the program will know to use the contents of the clipboard.
-
-### Setup required 🛠
-- most of the stuff will be plain python scripts which will only require you to have **python installed on your device** and an **IDE/text editor** to see and make changes to the scripts on your system.
-- if you don't have python on your machine then you can download it from [here](https://www.python.org/downloads/)
-
