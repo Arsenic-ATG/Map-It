@@ -3,11 +3,11 @@
  
 import webbrowser,sys,pyperclip
 
-if len(sys.argv) > 1
+if len(sys.argv) > 1:
 	# Get length from command line
 	address = ' '.join(sys.argv[1:])
 
-else
+else:
 	# Get address from clipboard
 	address = pyperclip.paste()
 
