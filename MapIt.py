@@ -4,8 +4,9 @@
 import webbrowser,sys
 
 if len(sys.argv) > 1
-	# TODO: Get length from command line
-
+	# Get length from command line
+	address = ' '.join(sys.argv)
+	
 # TODO: get address from clipboard
 
 # TODO: use webbrwoser to open thet webpage
