@@ -17,13 +17,13 @@ This is what your program does:
 
 ## 🏃‍♀️Get it running🏃‍♂️
 - 👯‍♂️clone/download using ```git@github.com:Arsenic-ATG/Map-It.git```
-- run the python script
-- to run the script with command line arguments pass the argument at the time or running the program like this :-
-  ```$python3 MapIt.py <location to be searched>```
-  for example:-
-  ```$python3 MapIt.py delhi```
+- run the python script :
+  - to run the script with command line arguments pass the argument at the time or running the program like this :-
+    ```$python3 MapIt.py <location to be searched>```
+    for example:-
+    ```$python3 MapIt.py delhi```
   
- - to fetch the address from clipboard then run the script without command line arguments
+  - to fetch the address from clipboard then run the script without command line arguments
 
 ## Note:
 the script will use the command line arguments instead of the clipboard. If there are no command line arguments, then the program will know to use the contents of the clipboard.
