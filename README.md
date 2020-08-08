@@ -40,4 +40,6 @@ Table below👇 compares the steps needed to display a map with and without **ma
 ## Note:
 the script will use the command line arguments instead of the clipboard. If there are no command line arguments, then the program will know to use the contents of the clipboard.
 
-### For more automations like this you can head over to my [python automations](https://github.com/Arsenic-ATG/Python-Automations) repo
+### Liked it ? 😃
+- if you like this project then don't forget to give a star 
+- For more automations like this you can head over to my [python automations](https://github.com/Arsenic-ATG/Python-Automations) repo
