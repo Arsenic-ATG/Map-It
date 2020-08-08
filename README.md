@@ -7,6 +7,18 @@ This is what your program does:
 
 - Opens the web browser to the Google Maps page for the address.
 
+Table below👇 compares the steps needed to display a map with and without **mapIt.py**.
+
+| **manually getting a map**       | **using mapIt.py**         |
+| ------------- |:-------------:|
+| Highlight the address     | Highlight the address |
+| Copy the address     | Copy the address     |
+| Open the web browser | Run mapIt.py      |
+|Go to http://maps.google.com/|      |
+| Click the address text field  |      |
+| Paste the address  |      |
+| Press enter   |      |
+
 ## Language used
 - 🐍 python
 
