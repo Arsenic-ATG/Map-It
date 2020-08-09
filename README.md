@@ -23,7 +23,7 @@ Table below👇 compares the steps needed to display a map with and without **ma
 - 🐍 python
 
 ### Setup required 🛠
-- most of the stuff will be plain python scripts which will only require you to have **python installed on your device** and an **IDE/text editor** to see and make changes to the scripts on your system.
+- most of the stuff is plain python scripts which will only require you to have **python installed on your device** and an **IDE/text editor** to see and make changes to the scripts on your system.
 - if you don't have python on your machine then you can download it from [here](https://www.python.org/downloads/)
 - 🌐 Install ```pyperclip``` (external module of python) using ```pip install pyperclip```
 
